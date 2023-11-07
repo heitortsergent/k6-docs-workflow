@@ -11,7 +11,7 @@ weight: -10
 
 This documentation will help you go from a total beginner to a seasoned k6 expert!
 
-This is a v0.48 change!
+This is a v0.48 change! Commit fix!
 
 ## Get started
 
